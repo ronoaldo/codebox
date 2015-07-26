@@ -1,6 +1,6 @@
 {
-    "name": "codebox",
-    "description": "Extensible hybrid IDE",
+    "name": "@ronoaldo/codebox",
+    "description": "Extensible hybrid IDE (+ @ronoaldo patches)",
     "version": "1.0.0-alpha.5",
     "author": "FriendCode Inc. <contact@codebox.io>",
     "license": "Apache 2",
@@ -8,7 +8,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CodeboxIDE/codebox.git"
+        "url": "https://github.com/ronoaldo/codebox.git"
     },
     "keywords": [
         "cli", "ide", "server", "desktop", "development", "code", "editor"
@@ -21,6 +21,10 @@
         {
             "name": "Samy Pesse",
             "email": "samypesse@gmail.com"
+        },
+        {
+            "name": "Ronoaldo JLP",
+            "email": "ronoaldo@gmail.com"
         }
     ],
     "bin": {
